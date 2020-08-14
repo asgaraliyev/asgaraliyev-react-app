@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.NewCommentBtn {
+  margin: 10px;
+}
+
+#right-side {
+  float: right;
+  position: relative;
+}
+
+.field {
+  width: 100% !important;
+}
+/*# sourceMappingURL=App.css.map */
