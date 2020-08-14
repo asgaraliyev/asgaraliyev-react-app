@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/asgaraliyev-react-app/static/css/main.d2ce5a7b.chunk.css",
+    "main.js": "/asgaraliyev-react-app/static/js/main.884d05be.chunk.js",
+    "main.js.map": "/asgaraliyev-react-app/static/js/main.884d05be.chunk.js.map",
+    "runtime-main.js": "/asgaraliyev-react-app/static/js/runtime-main.848a75d6.js",
+    "runtime-main.js.map": "/asgaraliyev-react-app/static/js/runtime-main.848a75d6.js.map",
+    "static/js/2.c2a87ab8.chunk.js": "/asgaraliyev-react-app/static/js/2.c2a87ab8.chunk.js",
+    "static/js/2.c2a87ab8.chunk.js.map": "/asgaraliyev-react-app/static/js/2.c2a87ab8.chunk.js.map",
+    "index.html": "/asgaraliyev-react-app/index.html",
+    "precache-manifest.cabe78d14d057295195a4b5a04f79a1a.js": "/asgaraliyev-react-app/precache-manifest.cabe78d14d057295195a4b5a04f79a1a.js",
+    "service-worker.js": "/asgaraliyev-react-app/service-worker.js",
+    "static/css/main.d2ce5a7b.chunk.css.map": "/asgaraliyev-react-app/static/css/main.d2ce5a7b.chunk.css.map",
+    "static/js/2.c2a87ab8.chunk.js.LICENSE.txt": "/asgaraliyev-react-app/static/js/2.c2a87ab8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.848a75d6.js",
+    "static/js/2.c2a87ab8.chunk.js",
+    "static/css/main.d2ce5a7b.chunk.css",
+    "static/js/main.884d05be.chunk.js"
+  ]
+}
